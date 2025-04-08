@@ -1,14 +1,9 @@
 # A Novel Transfer Learning based CNN Model for Wildfire Susceptibility Prediction
 
-This repository contains the implementation and resources for the research paper "A Novel Transfer Learning based CNN Model for Wildfire Susceptibility Prediction".
+[Omkar Oak](https://github.com/omkarsoak), [Rukmini Nazre](https://github.com/rukmini-17), [Soham Naigaonkar](https://github.com/s0hamn), Suraj Sawant, Amit Joshi <br>
+Department of Computer Science and Engineering, COEP Technological University, Pune, India. <br>
 
-## Authors
-
-[Omkar Oak](https://github.com/omkarsoak) $^1$, [Rukmini Nazre](https://github.com/rukmini-17) $^1$, [Soham Naigaonkar](https://github.com/s0hamn) $^1$, Suraj Sawant $^1$, Amit Joshi $^1$ <br>
-$^1$ Department of Computer Science and Engineering, COEP Technological University <br>
-Pune, MH, India. <br>
-
-## Paper Abstract
+## Abstract
 
 Wildfires are one of the most commonly occurring natural disasters in the world, posing significant threats to ecosystems and human settlements alike. One of the most important risk mitigation strategies is to implement early warning systems by identifying the regions more susceptible to wildfires. The development of remote sensing technologies combined with the increasing success of deep learning algorithms has greatly accelerated the development of such systems. Significant research has been done so far for wildfire detection in ground level imagery using neural network classifiers, but there is a lack of research focusing on satellite imagery. 
 
